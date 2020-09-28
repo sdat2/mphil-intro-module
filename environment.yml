@@ -1,0 +1,11 @@
+name: intro
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyter
+  # - jupyterlab
