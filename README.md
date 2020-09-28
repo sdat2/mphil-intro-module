@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sdat2/mphil-intro-module/bbacb7665c0f7d2a7b1cb046bb6af3a6642d2b17)
+
+
 In order to get the notebooks running on your machine you need to complete three steps:
 
 1. clone the repository to your machine 
