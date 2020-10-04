@@ -2,3 +2,8 @@
 __pycache__
 nc
 .ipynb_checkpoints
+*.txt
+_static
+_templates
+*.pickle
+_sources
